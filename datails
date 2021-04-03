@@ -1,0 +1,7 @@
+#include<stdio.h>
+imt main()
+{
+ printf("MonabotiGaganaSindhu");
+ printf("CSE");
+ printf("gaganasindhu0106@gmail.com");
+ }
